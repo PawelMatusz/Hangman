@@ -24,10 +24,6 @@ export class Game {
       text: 'ogniem i mieczem',
       category: 'utwór literacki',
     },
-    {
-      text: 'ela',
-      category: 'utwór literacki',
-    },
   ];
 
   constructor({ lettersWrapper, categoryWrapper, wordWrapper, outputWrapper }) {
